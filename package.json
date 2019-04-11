@@ -1,0 +1,15 @@
+{
+  "name": "chalk-cli-issue-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "log": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-cli": "^4.1.0"
+  }
+}
